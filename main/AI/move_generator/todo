@@ -1,0 +1,46 @@
+bug with magical piece creation
+castling perft bug?
+
+
+# FINISHED FOR NOW
+refactor piece to enum class, and square to class
+research zobrist hashes, bitboards, hyperbola quintessence
+implement magic bit_board solution
+
+//Successfully implement a convolutional neural network
+//
+//Neural network takes in board state as input and outputs a probability vector
+//
+//Neurons successfully implemented
+//
+//Convolutional layers successfully implemented
+//
+//Pooling layers successfully implemented
+//
+//Fully connected layers successfully implemented
+//
+//Backpropagation successfully implemented
+//
+//Successfully implement a Monte Carlo Tree Search
+//
+//A suitable data structure is used to store the tree
+//
+//Rollouts successfully implemented
+//
+//Values from playouts successfully backpropagated up the tree and appropriately used to adjust the network
+//
+//Improves at chess over time
+//
+//Learns chess by itself and improves over time
+//
+//Can beat simple chess AI’s (~600 elo)
+//
+//There is a UI that allows moves to be inputted and prompts moves to be returned from the neural network
+//
+//The UI displays a chess board with the pieces
+//
+//Menu that gives the option for AI vs AI, player vs AI and player vs player
+//
+//The UI and chess engine are effectively (and efficiently) connected
+//
+//Possible moves efficiently generated
